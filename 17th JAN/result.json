@@ -1,0 +1,20 @@
+{
+  "Activities": [
+    {
+      "Day": "Day 1",
+      "Activity": [
+        "Swimming",
+        "Programming",
+        "Runnning"
+      ]
+    },
+    {
+      "Day": "Day 2",
+      "Activity": [
+        "Gym",
+        "Playing",
+        "Surfing"
+      ]
+    }
+  ]
+}
